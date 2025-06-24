@@ -1,0 +1,14 @@
+# Jangan push file server lokal
+run.py
+
+# Cache dan file sistem
+__pycache__/
+*.pyc
+
+# File editor
+.vscode/
+.idea/
+
+# OS file
+.DS_Store
+Thumbs.db
